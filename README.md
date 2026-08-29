@@ -2,11 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&width=700&lines=Building+intelligent+systems+end+to+end.;From+models+and+agents+to+shipped+products.;Turning+emerging+AI+into+useful+software.)](https://git.io/typing-svg)
 
-**Full-Stack AI Engineer** · Final-Year Computer Science (Artificial Intelligence) Student at Universiti Malaya · Expected Graduation: February 2027
+## About Me
 
-[LinkedIn](https://www.linkedin.com/in/jiale331/) · [Email](mailto:jiale331@gmail.com)
+- 🤖 Full-Stack AI Engineer focused on building intelligent systems end to end.
+- 🎓 Final-Year BCS (AI) @ UM (Expected Graduation: February 2027).
+- 🛠️ I work across AI orchestration, backend architecture, user-facing applications, and cloud deployment.
 
-I'm an AI engineer focused on designing and building intelligent systems end to end—from AI orchestration and backend architecture to polished user experiences and cloud deployment. I enjoy turning emerging AI capabilities into reliable products that solve real problems.
+<p>
+  <a href="https://www.linkedin.com/in/jiale331/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:jiale331@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28"></a>
+</p>
 
 ## What I've Built
 
