@@ -8,12 +8,6 @@
 - 🎓 Final-Year BCS (AI) @ UM (Expected Graduation: February 2027).
 - 🛠️ I work across AI orchestration, backend architecture, user-facing applications, and cloud deployment.
 
-<p>
-  <a href="https://www.linkedin.com/in/jiale331/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:jiale331@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28"></a>
-</p>
-
 ## What I've Built
 
 - **[TrendLah](https://github.com/JiaLe331/trendlah)** — Malaysia-focused market research combining live trend signals, source-grounded AI, deterministic decision engines, and Databricks data pipelines.
