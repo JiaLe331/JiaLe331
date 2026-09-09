@@ -28,4 +28,5 @@
 | 🏅 3rd Runner-Up — UM Hackathon 2026 | [MedFlow](https://github.com/JiaLe331/HereWeGo__MedFlow) |
 | 🏅 4th Runner-Up + Best Project Built with Databricks — Codex Community KL Hackathon 2026 | [TrendLah](https://github.com/JiaLe331/trendlah) |
 | 🏅 5th Place — TNG Digital FINHACK 2026 | [SafeSend](https://github.com/JiaLe331/SafeSend) |
+| 🏅 Top 10 — MUBA Blockchain Hackathon 2026 (Gonka Router Track) | [GoalGuard](https://github.com/JiaLe331/GoalGuard) |
 | 🏅 Semifinalist — Deriv Hackathon 2026 | [Agentic Workflow Orchestrator](https://github.com/JiaLe331/Agentic_Workflow_Orchestrator) |
