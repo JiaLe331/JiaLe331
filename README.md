@@ -11,6 +11,7 @@
 ## What I've Built
 
 - **[TrendLah](https://github.com/JiaLe331/trendlah)** — Malaysia-focused market research combining live trend signals, source-grounded AI, deterministic decision engines, and Databricks data pipelines.
+- **[GoalGuard](https://github.com/JiaLe331/GoalGuard)** — goal-first ETH downside protection combining a multi-model AI review council, deterministic strategy and payoff engines, live on-chain options data, and fail-closed transaction safeguards.
 - **[MedFlow](https://github.com/JiaLe331/HereWeGo__MedFlow)** — human-in-the-loop medical workflow prototype with LangGraph, RAG-assisted medication alternatives, clinical risk checks, audit trails, and a 3D symptom map.
 - **[NusaLink](https://github.com/JiaLe331/Yobusehyo_NusaLink_smart_ID_hackathon)** — offline-first digital identity wallet and verifier using Ed25519, DID:key, signed presentations, selective disclosure, and family-managed identities.
 - **[Agentic Workflow Orchestrator](https://github.com/JiaLe331/Agentic_Workflow_Orchestrator)** — multi-agent system that converts natural-language requests into validated, deployable n8n workflows with retry feedback and live progress.
@@ -27,4 +28,5 @@
 | 🏅 3rd Runner-Up — UM Hackathon 2026 | [MedFlow](https://github.com/JiaLe331/HereWeGo__MedFlow) |
 | 🏅 4th Runner-Up + Best Project Built with Databricks — Codex Community KL Hackathon 2026 | [TrendLah](https://github.com/JiaLe331/trendlah) |
 | 🏅 5th Place — TNG Digital FINHACK 2026 | [SafeSend](https://github.com/JiaLe331/SafeSend) |
+| 🏅 Top 10 — MUBA Blockchain Hackathon 2026 (Gonka Router Track) | [GoalGuard](https://github.com/JiaLe331/GoalGuard) |
 | 🏅 Semifinalist — Deriv Hackathon 2026 | [Agentic Workflow Orchestrator](https://github.com/JiaLe331/Agentic_Workflow_Orchestrator) |
