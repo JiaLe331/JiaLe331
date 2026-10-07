@@ -10,6 +10,7 @@
 
 ## What I've Built
 
+- **[FlowPilot](https://github.com/JiaLe331/FlowPilot)** — evidence-led investigation assistant for industrial dispensing defects, combining machine logs, images, guided troubleshooting, 3D mechanism views, simulated experiments, and engineer handoffs.
 - **[TrendLah](https://github.com/JiaLe331/trendlah)** — Malaysia-focused market research combining live trend signals, source-grounded AI, deterministic decision engines, and Databricks data pipelines.
 - **[GoalGuard](https://github.com/JiaLe331/GoalGuard)** — goal-first ETH downside protection combining a multi-model AI review council, deterministic strategy and payoff engines, live on-chain options data, and fail-closed transaction safeguards.
 - **[MedFlow](https://github.com/JiaLe331/HereWeGo__MedFlow)** — human-in-the-loop medical workflow prototype with LangGraph, RAG-assisted medication alternatives, clinical risk checks, audit trails, and a 3D symptom map.
@@ -24,6 +25,7 @@
 
 | Award | Project |
 |---|---|
+| 🥈 1st Runner-Up — AI Horizon Solution Challenge 2026 | [FlowPilot](https://github.com/JiaLe331/FlowPilot) |
 | 🥈 1st Runner-Up — NexG Godamlah 2.0 Smart ID Hackathon | [NusaLink](https://github.com/JiaLe331/Yobusehyo_NusaLink_smart_ID_hackathon) |
 | 🏅 3rd Runner-Up — UM Hackathon 2026 | [MedFlow](https://github.com/JiaLe331/HereWeGo__MedFlow) |
 | 🏅 4th Runner-Up + Best Project Built with Databricks — Codex Community KL Hackathon 2026 | [TrendLah](https://github.com/JiaLe331/trendlah) |
