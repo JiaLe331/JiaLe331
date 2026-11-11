@@ -11,6 +11,7 @@
 ## What I've Built
 
 - **[FlowPilot](https://github.com/JiaLe331/FlowPilot)** — evidence-led investigation assistant for industrial dispensing defects, combining machine logs, images, guided troubleshooting, 3D mechanism views, simulated experiments, and engineer handoffs.
+- **[TurnWise](https://github.com/JiaLe331/TurnWise)** — AI-assisted restaurant table-turnover platform with vision-based table checks, staff-confirmed clearing workflows, waitlist-aware seating recommendations, and Gemini-powered shift insights. Built for Google Cloud AI Builder Cup 2026.
 - **[TrendLah](https://github.com/JiaLe331/trendlah)** — Malaysia-focused market research combining live trend signals, source-grounded AI, deterministic decision engines, and Databricks data pipelines.
 - **[GoalGuard](https://github.com/JiaLe331/GoalGuard)** — goal-first ETH downside protection combining a multi-model AI review council, deterministic strategy and payoff engines, live on-chain options data, and fail-closed transaction safeguards.
 - **[MedFlow](https://github.com/JiaLe331/HereWeGo__MedFlow)** — human-in-the-loop medical workflow prototype with LangGraph, RAG-assisted medication alternatives, clinical risk checks, audit trails, and a 3D symptom map.
